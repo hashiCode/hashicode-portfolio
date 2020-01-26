@@ -1,0 +1,71 @@
+[
+    {
+        "area" : "Backend",
+        "image" : "laptop-code",
+        "languages" : [
+            "java",
+            "groovy",
+            "javascript",
+            "sql",
+            "nosql"
+        ],
+        "technologys" : [
+            "maven",
+            "spring",
+            "hibernate",
+            "ehcache",
+            "struts2",
+            "rest",
+            "junit",
+            "spock",
+            "docker",
+            "postgresql",
+            "oracle",
+            "mysql",
+            "tomcat",
+            "nodejs",
+            "mongodb",
+            "expressjs"
+        ]
+    },
+    {
+        "area" : "Frontend",
+        "image" : "code",
+        "languages" : [
+            "javascript"
+        ],
+        "technologys" : [
+            "html",
+            "css",
+            "jsp",
+            "webpack",
+            "nodejs",
+            "reactjs",
+            "bootstrap",
+            "jest",
+            "sas",
+            "material-ui"
+        ]
+    },
+    {
+        "area" : "Mobile",
+        "image" : "mobile-alt",
+        "languages" : [
+            "java",
+            "kotlin",
+            "objective-c",
+            "swift"
+        ],
+        "technologys" : [
+            "gradle",
+            "cocoapods",
+            "retrofit",
+            "alamofire",
+            "ocmock",
+            "quick",
+            "nimble",
+            "junit",
+            "robolectric"
+        ]
+    }
+]

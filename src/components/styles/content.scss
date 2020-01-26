@@ -1,0 +1,25 @@
+@import "color.scss";
+@import "fonts.scss";
+
+
+body {
+    font-family: 'Open Sans', sans-serif; 
+    background-color: $primary-color;
+    color : $content-color;
+}
+
+hr {
+    border-color: $content-color;
+}
+
+a{
+    color: lighten($content-color, 15%);
+}
+
+a:hover{
+    color: darken($content-color, 10%);
+}
+
+.about-text{
+    font-size: large;
+}

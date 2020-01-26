@@ -1,0 +1,9 @@
+@import "color.scss";
+
+.skill-card{
+    background-color: $secondary-color;
+
+    .badge-content{
+        background-color: $primary-color;
+    }
+}
